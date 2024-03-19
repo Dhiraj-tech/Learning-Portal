@@ -2,9 +2,7 @@
 
 # Technology used:
 
-- [ ] MongoDB
-- [ ] Express
 - [ ] React
-- [ ] Node.js
-- [ ] JWT
+- [ ] Bootstrap
+- [ ] Tailwind CSS
 
