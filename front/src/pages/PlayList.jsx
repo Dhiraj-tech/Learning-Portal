@@ -9,7 +9,7 @@ export const PlayList = () => {
        <div className="row">
     
           <div className="column">
-             <form action="" method="post" className="save-playlist">
+             <form action="#" method="post" className="save-playlist">
                 <button type="submit"><i className="far fa-bookmark"></i> <span>save playlist</span></button>
              </form>
        
