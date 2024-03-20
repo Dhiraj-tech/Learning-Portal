@@ -8,7 +8,7 @@ export const TeacherProfile = () => {
  
     <div className="details">
        <div className="tutor">
-          <img src="images/pic-2.jpg" alt=""/>
+          <img src="pic-2.jpg" alt=""/>
           <h3>john deo</h3>
           <span>developer</span>
        </div>
@@ -30,7 +30,7 @@ export const TeacherProfile = () => {
  
        <div className="box">
           <div className="thumb">
-             <img src="images/thumb-1.png" alt=""/>
+             <img src="thumb-1.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete HTML tutorial</h3>
@@ -39,7 +39,7 @@ export const TeacherProfile = () => {
  
        <div className="box">
           <div className="thumb">
-             <img src="images/thumb-2.png" alt=""/>
+             <img src="thumb-2.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete CSS tutorial</h3>
@@ -48,7 +48,7 @@ export const TeacherProfile = () => {
  
        <div className="box">
           <div className="thumb">
-             <img src="images/thumb-3.png" alt=""/>
+             <img src="thumb-3.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete javascript tutorial</h3>
@@ -57,7 +57,7 @@ export const TeacherProfile = () => {
  
        <div className="box">
           <div className="thumb">
-             <img src="images/thumb-4.png" alt=""/>
+             <img src="thumb-4.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete Boostrap tutorial</h3>

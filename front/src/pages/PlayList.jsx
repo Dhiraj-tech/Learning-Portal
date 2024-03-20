@@ -14,13 +14,13 @@ export const PlayList = () => {
              </form>
        
              <div className="thumb">
-                <img src="images/thumb-1.png" alt=""/>
+                <img src="thumb-1.png" alt=""/>
                 <span>10 videos</span>
              </div>
           </div>
           <div className="column">
              <div className="tutor">
-                <img src="images/pic-2.jpg" alt=""/>
+                <img src="pic-2.jpg" alt=""/>
                 <div>
                    <h3>john deo</h3>
                    <span>21-10-2022</span>
@@ -45,37 +45,37 @@ export const PlayList = () => {
     
           <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-1.png" alt=""/>
+             <img src="post-1-1.png" alt=""/>
              <h3>complete HTML tutorial (part 01)</h3>
           </Link>
     
           <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-2.png" alt=""/>
+             <img src="post-1-2.png" alt=""/>
              <h3>complete HTML tutorial (part 02)</h3>
          </Link>
     
          <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-3.png" alt=""/>
+             <img src="post-1-3.png" alt=""/>
              <h3>complete HTML tutorial (part 03)</h3>
           </Link>
     
           <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-4.png" alt=""/>
+             <img src="post-1-4.png" alt=""/>
              <h3>complete HTML tutorial (part 04)</h3>
          </Link>
     
          <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-5.png" alt=""/>
+             <img src="post-1-5.png" alt=""/>
              <h3>complete HTML tutorial (part 05)</h3>
          </Link>
     
          <Link className="box" to="/watchvideo">
              <i className="fas fa-play"></i>
-             <img src="images/post-1-6.png" alt=""/>
+             <img src="post-1-6.png" alt=""/>
              <h3>complete HTML tutorial (part 06)</h3>
          </Link>
     

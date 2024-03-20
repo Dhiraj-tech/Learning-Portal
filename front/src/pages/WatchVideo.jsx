@@ -6,7 +6,7 @@ export const WatchVideo = () => {
 
     <div className="video-container">
        <div className="video">
-          <video src="images/vid-1.mp4" controls poster="images/post-1-1.png" id="video"></video>
+          <video src="vid-1.mp4" controls poster="post-1-1.png" id="video"></video>
        </div>
        <h3 className="title">complete HTML tutorial (part 01)</h3>
        <div className="info">
@@ -14,7 +14,7 @@ export const WatchVideo = () => {
           <p className="date"><i className="fas fa-heart"></i><span>44 likes</span></p>
        </div>
        <div className="tutor">
-          <img src="images/pic-2.jpg" alt=""/>
+          <img src="pic-2.jpg" alt=""/>
           <div>
              <h3>john deo</h3>
              <span>developer</span>
@@ -44,7 +44,7 @@ export const WatchVideo = () => {
  
     <h1 className="heading">user comments</h1>
          <div className="bg-white p-3">
-            <div className="d-flex flex-row user-info"><img className="rounded-circle" src="images/pic-1.jpg" width="40"/>
+            <div className="d-flex flex-row user-info"><img className="rounded-circle" src="pic-1.jpg" width="40"/>
                <div className="after-image">
                   <span className="d-block font-weight-bold name">shaikh anas</span>
                   <span className="date text-black-50">Shared publicly - Jan 2023</span>
@@ -56,7 +56,7 @@ export const WatchVideo = () => {
          </div>
 
          <div className="bg-white p-3">
-            <div className="d-flex flex-row user-info"><img className="rounded-circle" src="images/pic-2.jpg" width="40"/>
+            <div className="d-flex flex-row user-info"><img className="rounded-circle" src="pic-2.jpg" width="40"/>
                <div className="after-image">
                   <span className="d-block font-weight-bold name">john deo</span>
                   <span className="date text-black-50">Shared publicly - Jan 2023</span>

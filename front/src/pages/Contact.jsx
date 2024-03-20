@@ -30,7 +30,7 @@ export const Contact = () => {
     <section className="contact">
       <div className="row">
         <div className="image">
-          <img src="images/contact-img.svg" alt="" />
+          <img src="contact-img.svg" alt="" />
         </div>
 
         <form action="" method="post">

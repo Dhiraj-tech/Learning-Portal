@@ -9,7 +9,7 @@ export const About = () => {
     <div className="row">
  
        <div className="image">
-          <img src="images/about-img.svg" alt=""/>
+          <img src="about-img.svg" alt=""/>
        </div>
  
        <div className="content">
@@ -67,7 +67,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-2.jpg" alt=""/>
+             <img src="pic-2.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">
@@ -84,7 +84,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-3.jpg" alt=""/>
+             <img src="pic-3.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">
@@ -101,7 +101,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-4.jpg" alt=""/>
+             <img src="pic-4.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">
@@ -118,7 +118,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-5.jpg" alt=""/>
+             <img src="pic-5.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">
@@ -135,7 +135,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-6.jpg" alt=""/>
+             <img src="pic-6.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">
@@ -152,7 +152,7 @@ export const About = () => {
        <div className="box">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, suscipit a. Quibusdam, dignissimos consectetur. Sed ullam iusto eveniet qui aut quibusdam vero voluptate libero facilis fuga. Eligendi eaque molestiae modi?</p>
           <div className="student">
-             <img src="images/pic-7.jpg" alt=""/>
+             <img src="pic-7.jpg" alt=""/>
              <div>
                 <h3>john deo</h3>
                 <div className="stars">

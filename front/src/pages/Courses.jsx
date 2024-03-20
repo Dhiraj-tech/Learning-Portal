@@ -20,14 +20,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-2.jpg" alt=""/>
+             <img src="pic-2.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-1.png" alt=""/>
+             <img src="thumb-1.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete HTML tutorial</h3>
@@ -38,14 +38,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-3.jpg" alt=""/>
+             <img src="pic-3.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-2.png" alt=""/>
+             <img src="thumb-2.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete CSS tutorial</h3>
@@ -56,14 +56,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-4.jpg" alt=""/>
+             <img src="pic-4.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-3.png" alt=""/>
+             <img src="thumb-3.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete JS tutorial</h3>
@@ -74,14 +74,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-5.jpg" alt=""/>
+             <img src="pic-5.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-4.png" alt=""/>
+             <img src="thumb-4.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete Boostrap tutorial</h3>
@@ -92,14 +92,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-6.jpg" alt=""/>
+             <img src="pic-6.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-5.png" alt=""/>
+             <img src="thumb-5.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete JQuery tutorial</h3>
@@ -110,14 +110,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-7.jpg" alt=""/>
+             <img src="pic-7.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-6.png" alt=""/>
+             <img src="thumb-6.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete SASS tutorial</h3>
@@ -128,14 +128,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-8.jpg" alt=""/>
+             <img src="pic-8.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-7.png" alt=""/>
+             <img src="thumb-7.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete PHP tutorial</h3>
@@ -146,14 +146,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-9.jpg" alt=""/>
+             <img src="pic-9.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-8.png" alt=""/>
+             <img src="thumb-8.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete MySQL tutorial</h3>
@@ -164,14 +164,14 @@ export const Course = () => {
  
        <div className="box">
           <div className="tutor">
-             <img src="images/pic-1.jpg" alt=""/>
+             <img src="pic-1.jpg" alt=""/>
              <div className="info">
                 <h3>john deo</h3>
                 <span>21-10-2022</span>
              </div>
           </div>
           <div className="thumb">
-             <img src="images/thumb-9.png" alt=""/>
+             <img src="thumb-9.png" alt=""/>
              <span>10 videos</span>
           </div>
           <h3 className="title">complete react tutorial</h3>
